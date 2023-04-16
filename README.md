@@ -16,6 +16,12 @@ Le rendu consiste simplement à compléter toutes les parties marquées avec la 
 
 [Introduction](#introduction)
 
+[1 - Observation de paquets](#observation-des-paquets)
+
+[2 - Reconfiguration du système](#reconfiguration-du-système)
+
+[3 - Attaque](#attaquer-le-système)
+
 # Introduction
 
 Ce labo vous présente les tagged VLANs à l'exemple d'un système mis en place avec du
